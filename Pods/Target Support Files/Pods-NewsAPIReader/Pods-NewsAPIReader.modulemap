@@ -1,0 +1,6 @@
+framework module Pods_NewsAPIReader {
+  umbrella header "Pods-NewsAPIReader-umbrella.h"
+
+  export *
+  module * { export * }
+}
